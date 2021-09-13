@@ -22,11 +22,9 @@ public class MyApplication {
             double similarity = simHash0.getSemblance(simHash1.getSimHash());
             IOProcess.outputTxt(similarity, outputPath, inputPath1, inputPath2);
             System.out.println(similarity);
-            System.exit(0);
         } else{
 
                 System.out.println("该文本不正常！");
-                System.exit(0);
             }
         }
 
