@@ -1,8 +1,6 @@
 package run;
 
 import com.hankcs.hanlp.HanLP;
-
-import java.io.IOException;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.security.MessageDigest;
@@ -43,7 +41,7 @@ public class MySimHash {
         int size = keywordList.size();
         for(String keyword : keywordList){
             //step two: get hash
-            String keywordHash = Hash(keyword);
+            String keywordHash = hash(keyword);
         //step three:weighting and merging
             for (int j = 0; j < vector.length; j++) {
                 //according to the ordinal grade, divide the fourteen grades
@@ -73,7 +71,7 @@ public class MySimHash {
      * @param keyword keywords of all data
      * @return HashKeywords String ,the hash of keyword
      */
-    private String Hash(String keyword) {
+    private String hash(String keyword) {
         try{
             //Determine the use of MD5 for information summarization
                 MessageDigest messageDigest = MessageDigest.getInstance("MD5");

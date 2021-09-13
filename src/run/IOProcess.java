@@ -8,7 +8,7 @@ import java.io.*;
  * @createTime : [2021/9/7 20:07]
  */
 
-public class IOProcess {
+public class IoProcess {
     /**
      * read txt folder, and change them into String
      * @param txtPath The absolute path to the folder

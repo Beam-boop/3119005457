@@ -174,7 +174,7 @@ public class MyApplicationTest {
      * Test 12 : Test delete the first paragraph  text: orig_del.txt
      */
     @Test
-    public void testForDel_TheFP(){
+    public void testForDelTheFP(){
         try {
             MyApplication.process("test/orig.txt","test/orig_del.txt","test/ansAll.txt");
         }
@@ -187,7 +187,7 @@ public class MyApplicationTest {
      * Test 13 : Test wrong character  text: orig_wrong_character.txt
      */
     @Test
-    public void testFor_WrongCharacter(){
+    public void testForWrongCharacter(){
         try {
             MyApplication.process("test/orig.txt","test/orig_wrong_character.txt","test/ansAll.txt");
         }
@@ -213,7 +213,7 @@ public class MyApplicationTest {
      * Test15: A subset of test text text: orig_sub.txt
      */
     @Test
-    public void testForSub_1(){
+    public void testForSub1(){
         try {
             MyApplication.process("test/orig.txt","test/orig_sub_1.txt","test/ansAll.txt");
         }
@@ -226,7 +226,7 @@ public class MyApplicationTest {
      * Test16: Select the second and third paragraphs as tests
      */
     @Test
-    public void testForSub_2(){
+    public void testForSub2(){
         try {
             MyApplication.process("test/orig.txt","test/orig_sub_2.txt","test/ansAll.txt");
         }

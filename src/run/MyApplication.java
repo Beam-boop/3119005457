@@ -13,14 +13,14 @@ public class MyApplication {
         String  inputPath2= args[1];
         String  outputPath= args[2];
 
-        String str1 = IOProcess.inputTxt(inputPath1);
-        String str2 = IOProcess.inputTxt(inputPath2);
+        String str1 = IoProcess.inputTxt(inputPath1);
+        String str2 = IoProcess.inputTxt(inputPath2);
 
         if(str1.length() != 0 && str2.length() != 0) {
             MySimHash simHash0 = new MySimHash(str1, 256, 10);
             MySimHash simHash1 = new MySimHash(str2, 256, 10);
             double similarity = simHash0.getSemblance(simHash1.getSimHash());
-            IOProcess.outputTxt(similarity, outputPath, inputPath1, inputPath2);
+            IoProcess.outputTxt(similarity, outputPath, inputPath1, inputPath2);
             System.out.println(similarity);
         } else{
 
@@ -40,13 +40,13 @@ public class MyApplication {
             String inputPath2 = input2;
             String outputPath = output;
 
-            String str1 = IOProcess.inputTxt(inputPath1);
-            String str2 = IOProcess.inputTxt(inputPath2);
+            String str1 = IoProcess.inputTxt(inputPath1);
+            String str2 = IoProcess.inputTxt(inputPath2);
 
             MySimHash simHash0 = new MySimHash(str1, 256, 10);
             MySimHash simHash1 = new MySimHash(str2, 256, 10);
             double similarity = simHash0.getSemblance(simHash1.getSimHash());
-            IOProcess.outputTxt(similarity, outputPath, inputPath1, inputPath2);
+            IoProcess.outputTxt(similarity, outputPath, inputPath1, inputPath2);
             System.out.println("Rate of rechecking:  " + similarity + "\n");
         }
 }
