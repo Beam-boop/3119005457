@@ -7,8 +7,8 @@ import java.security.MessageDigest;
 import java.util.List;
 
 /**
- *
- *
+ * word segmentation,get hash,weighting and merging and Dimension reduction
+ * return the simHash of str
  * @author : [86135]
  * @version : [v1.0]
  * @createTime : [2021/9/7 21:11]
@@ -94,7 +94,7 @@ public class MySimHash {
     /**
      * get the similarity of two simHash
      * @param simHash the other hash
-     * @return
+     * @return the similarity of two value of hash
      */
     public double getSemblance(String simHash){
         // BigDecimal.ROUND_HALF_UP表示四舍五入，setScale(2)表示保留两位小数

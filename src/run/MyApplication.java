@@ -17,8 +17,8 @@ public class MyApplication {
         String str2 = IoProcess.inputTxt(inputPath2);
 
         if(str1.length() != 0 && str2.length() != 0) {
-            MySimHash simHash0 = new MySimHash(str1, 256, 10);
-            MySimHash simHash1 = new MySimHash(str2, 256, 10);
+            MySimHash simHash0 = new MySimHash(str1, 128, 10);
+            MySimHash simHash1 = new MySimHash(str2, 128, 10);
             double similarity = simHash0.getSemblance(simHash1.getSimHash());
             IoProcess.outputTxt(similarity, outputPath, inputPath1, inputPath2);
             System.out.println(similarity);
@@ -43,10 +43,15 @@ public class MyApplication {
             String str1 = IoProcess.inputTxt(inputPath1);
             String str2 = IoProcess.inputTxt(inputPath2);
 
-            MySimHash simHash0 = new MySimHash(str1, 256, 10);
-            MySimHash simHash1 = new MySimHash(str2, 256, 10);
+            MySimHash simHash0 = new MySimHash(str1, 192, 10);
+            MySimHash simHash1 = new MySimHash(str2, 192, 10);
             double similarity = simHash0.getSemblance(simHash1.getSimHash());
             IoProcess.outputTxt(similarity, outputPath, inputPath1, inputPath2);
-            System.out.println("Rate of rechecking:  " + similarity + "\n");
+            String separator = "/|\\\\";
+            String[] inputOne = inputPath1.split(separator);
+            String[] inputTwo = inputPath2.split(separator);
+            System.out.print("The origin paper: " + inputOne[inputOne.length-1]);
+            System.out.print("    The derivative paper:  " + inputTwo[inputTwo.length-1]);
+            System.out.print("    Rate of rechecking:  " + similarity + "\n");
         }
 }

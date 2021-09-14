@@ -6,3 +6,15 @@ The origin paper: orig.txt
 The derivative paper:  orig_0.8_add.txt
 Rate of rechecking:  0.86
 
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.86
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.86
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.86
+
