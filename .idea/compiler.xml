@@ -9,8 +9,8 @@
         <module name="paperCheck" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="paperCheck" target="14" />
+    <bytecodeTargetLevel target="11">
+      <module name="paperCheck" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
