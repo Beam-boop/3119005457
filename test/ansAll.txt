@@ -1,0 +1,248 @@
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_1.txt
+Rate of rechecking:  0.93
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_3.txt
+Rate of rechecking:  0.9
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_7.txt
+Rate of rechecking:  0.85
+
+The origin paper: orig.txt
+The derivative paper:  orig.txt
+Rate of rechecking:  1.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_sub_1.txt
+Rate of rechecking:  0.95
+
+The origin paper: orig.txt
+The derivative paper:  orig_sub_2.txt
+Rate of rechecking:  0.83
+
+The origin paper: orig.txt
+The derivative paper:  orig_wrong_character.txt
+Rate of rechecking:  0.76
+
+The origin paper: 123.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_10.txt
+Rate of rechecking:  0.86
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_15.txt
+Rate of rechecking:  0.8
+
+The origin paper: orig.txt
+The derivative paper:  empty.txt
+Rate of rechecking:  0.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.81
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_del.txt
+Rate of rechecking:  0.87
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_mix.txt
+Rate of rechecking:  0.9
+
+The origin paper: orig.txt
+The derivative paper:  orig_del.txt
+Rate of rechecking:  0.91
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_1.txt
+Rate of rechecking:  0.93
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_3.txt
+Rate of rechecking:  0.9
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_7.txt
+Rate of rechecking:  0.85
+
+The origin paper: orig.txt
+The derivative paper:  orig.txt
+Rate of rechecking:  1.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_sub_1.txt
+Rate of rechecking:  0.95
+
+The origin paper: orig.txt
+The derivative paper:  orig_sub_2.txt
+Rate of rechecking:  0.83
+
+The origin paper: orig.txt
+The derivative paper:  orig_wrong_character.txt
+Rate of rechecking:  0.76
+
+The origin paper: 123.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_10.txt
+Rate of rechecking:  0.86
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_15.txt
+Rate of rechecking:  0.8
+
+The origin paper: orig.txt
+The derivative paper:  empty.txt
+Rate of rechecking:  0.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.81
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_del.txt
+Rate of rechecking:  0.87
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_mix.txt
+Rate of rechecking:  0.9
+
+The origin paper: orig.txt
+The derivative paper:  orig_del.txt
+Rate of rechecking:  0.91
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_1.txt
+Rate of rechecking:  0.93
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_3.txt
+Rate of rechecking:  0.9
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_7.txt
+Rate of rechecking:  0.85
+
+The origin paper: orig.txt
+The derivative paper:  orig.txt
+Rate of rechecking:  1.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_sub_1.txt
+Rate of rechecking:  0.95
+
+The origin paper: orig.txt
+The derivative paper:  orig_sub_2.txt
+Rate of rechecking:  0.83
+
+The origin paper: orig.txt
+The derivative paper:  orig_wrong_character.txt
+Rate of rechecking:  0.76
+
+The origin paper: 123.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_10.txt
+Rate of rechecking:  0.86
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_15.txt
+Rate of rechecking:  0.8
+
+The origin paper: orig.txt
+The derivative paper:  empty.txt
+Rate of rechecking:  0.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.81
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_del.txt
+Rate of rechecking:  0.87
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_mix.txt
+Rate of rechecking:  0.9
+
+The origin paper: orig.txt
+The derivative paper:  orig_del.txt
+Rate of rechecking:  0.91
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_1.txt
+Rate of rechecking:  0.93
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_3.txt
+Rate of rechecking:  0.9
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_7.txt
+Rate of rechecking:  0.85
+
+The origin paper: orig.txt
+The derivative paper:  orig.txt
+Rate of rechecking:  1.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_sub_1.txt
+Rate of rechecking:  0.95
+
+The origin paper: orig.txt
+The derivative paper:  orig_sub_2.txt
+Rate of rechecking:  0.83
+
+The origin paper: orig.txt
+The derivative paper:  orig_wrong_character.txt
+Rate of rechecking:  0.76
+
+The origin paper: 123.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_10.txt
+Rate of rechecking:  0.86
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_dis_15.txt
+Rate of rechecking:  0.8
+
+The origin paper: orig.txt
+The derivative paper:  empty.txt
+Rate of rechecking:  0.0
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.81
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_del.txt
+Rate of rechecking:  0.87
+
+The origin paper: orig.txt
+The derivative paper:  orig_0.8_mix.txt
+Rate of rechecking:  0.9
+
+The origin paper: orig.txt
+The derivative paper:  orig_del.txt
+Rate of rechecking:  0.91
+
+The origin paper: orig.txt
+The derivative paper:  empty.txt
+Rate of rechecking:  0.0
+
+The origin paper: 123.txt
+The derivative paper:  orig_0.8_add.txt
+Rate of rechecking:  0.0
+
